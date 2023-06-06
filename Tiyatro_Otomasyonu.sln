@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiyatro_Otomasyonu", "Tiyatro_Otomasyonu\Tiyatro_Otomasyonu.csproj", "{AFD0EEF0-0ECE-4AD4-ABBA-9397B6DEDF24}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TiyatroOto", "TiyatroOto\TiyatroOto.vdproj", "{F9DEA2E1-22C0-4477-A632-D46EA2870461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD0EEF0-0ECE-4AD4-ABBA-9397B6DEDF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD0EEF0-0ECE-4AD4-ABBA-9397B6DEDF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD0EEF0-0ECE-4AD4-ABBA-9397B6DEDF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD0EEF0-0ECE-4AD4-ABBA-9397B6DEDF24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9DEA2E1-22C0-4477-A632-D46EA2870461}.Debug|Any CPU.ActiveCfg = Debug
+		{F9DEA2E1-22C0-4477-A632-D46EA2870461}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3D4CE93-0FB2-47BF-B93C-44CDB95B5252}
+	EndGlobalSection
+EndGlobal
